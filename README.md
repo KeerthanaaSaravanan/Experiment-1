@@ -3,9 +3,7 @@
 ### NAME : KEERTHANA S
 ### REG NO : 212223240070
 
-##  Write programs in Python Language to demonstrate the working of
-followingconstructs with possible test cases: a) do…while b) while…do c)
-if …else d) switch e) for
+##  Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for
 
 ## a) Aim
 To write python programs for do…while, while, for, switch and if…else and test with possible test
